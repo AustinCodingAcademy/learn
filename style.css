@@ -1,1 +1,14 @@
-
+body {
+background-color: forestgreen;
+background-image: url(duck.jpg);
+background-repeat: no-repeat;
+background-position-x: 15cm;
+background-position-y: 0cm;
+color: white
+}
+button {
+    color: cornflowerblue;
+}
+h1 {
+    font-style: oblique
+}
